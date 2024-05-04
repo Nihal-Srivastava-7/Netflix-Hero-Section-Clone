@@ -1,0 +1,15 @@
+.header {
+    height: 700px;
+    width: auto;
+    background-image: url('/PROJECT 3/IN-en-20231002-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+}
+
+header img {
+    width: 1690px;
+}
+.header-top {
+    display: flex;
+    height: 95px;
+    width: auto;
+    margin: 24px 48px;
+}
